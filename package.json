@@ -1,0 +1,26 @@
+{
+  "name": "node.js-and-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "joi": "^17.3.0",
+    "validator": "^13.1.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gprokopiv/Node.js-and-npm.git"
+  },
+  "author": "Halyna_Prokopiv <halyna.kotlyar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gprokopiv/Node.js-and-npm/issues"
+  },
+  "homepage": "https://github.com/gprokopiv/Node.js-and-npm#readme",
+  "keywords": []
+}
